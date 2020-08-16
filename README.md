@@ -1,4 +1,4 @@
-# Hey 👋, I'm [Bikram Mukherjee](https://Bikram557.me)!
+# Hey 👋, I'm [Bikram Mukherjee](https://https://t.me/Bikram_M)!
 
 <a href="https://t.me/Bikram_M">
 <img align="left" alt="Bikrams's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
@@ -11,8 +11,6 @@
 </a>
 
 ![](https://komarev.com/ghpvc/?username=bikram557)
-
-![](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
 
 **Languages and Tools:**
 
